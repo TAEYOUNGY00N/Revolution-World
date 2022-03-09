@@ -1,4 +1,6 @@
 # Revolution-World
 #include <stdio.h>
-int main()
-
+int main(){
+prinf("Hello World!");
+return 0;
+}
