@@ -1,7 +1,7 @@
 # Revolution-World
 Hello!
 
-learn
+learning
 _C++
 _JavaScript
 _Java
