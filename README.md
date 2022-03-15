@@ -1,13 +1,13 @@
 # Revolution-World
 
-##Hello!
+## Hello!
 
 -----------|-----------
       1    |     2
 -----------|-----------
       3    |     4
 
-##Project base data:
+## Project base data:
 
 
 ●Short description: Apache Avro is a data serialization system.
@@ -16,7 +16,7 @@
 ●Project status: Active
 ●Project data file: DOAP RDF Source (generated json)
 
-##order
+## order
 
 ```
 -item 1
@@ -25,7 +25,7 @@
 ```
 
 
-##learning##
+## learning
 
 _C++
 _JavaScript
