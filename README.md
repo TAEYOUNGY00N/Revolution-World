@@ -20,7 +20,7 @@
 
 ●Project data file: DOAP RDF Source (generated json)
 
-## order
+## Order
 
 ```
 -item 1
@@ -29,7 +29,7 @@
 ```
 
 
-## learning
+## Learning
 
 _C++
 
