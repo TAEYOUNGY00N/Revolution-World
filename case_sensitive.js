@@ -10,5 +10,5 @@ let num = text.charCodeAt(0);
        console.log(`${t}`);
        }
       else{
-        console.log("not alphabet");
+        console.log("not alphabet");// 알파벳이 아닐시
     }
