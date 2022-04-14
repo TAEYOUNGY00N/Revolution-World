@@ -47,7 +47,7 @@ _C++
 _JavaScript(node.js)
 
 OSS 02class
-고령화
+고령화 Data Analytics
 
 Data_Analytics_for_Age_friendly_busan
 ___________________________________
